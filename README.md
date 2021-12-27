@@ -36,7 +36,7 @@ A search engine for books using the Google Books API using MongoDB, Express, Rea
 * [Mongoose](https://mongoosejs.com/docs/)
 * [React](https://reactjs.org/)
 * [ApolloServer](https://www.apollographql.com/)
-* [jwt] (https://jwt.io/)
+* [jwt](https://jwt.io/)
 * [bcrypt](https://www.npmjs.com/package/bcrypt)
 * [graphql](https://graphql.org/)
 
